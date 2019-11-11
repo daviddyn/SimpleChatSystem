@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/ChattingSystem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChineseChats" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChineseFreqDict" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChineseThesaurus" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_srcs/块钱.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_srcs/英语日常对话1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_srcs/英语日常对话2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_srcs/英语日常对话3(新概念第一册).txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_srcs/英语网站爬虫.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_srcs/附加库.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/random_srcs/chat_mismatch.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/random_srcs/reply_positive.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/specials_src.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/console/CommandScanner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/ChatCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/SimpleWordReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/WordReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/ChatBank.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/ChattingSystem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/FormattedReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/NumberConvertWordReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/PairInt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/SentenceSegmenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/SynonymBank.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/SynonymReplaceReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/Utils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/WordBank.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/WordBankManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/WordFrequencyVector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/WordFrequencyVectors.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/WordSegmenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/commands/RandomResponses.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/commands/Self.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/davidsoft/natural/chinese/commands/system/DateTime.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/thesaurus_src.txt" charset="GBK" />
+  </component>
+</project>
